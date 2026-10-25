@@ -1,3 +1,3 @@
-# untitledSORa-2048.github.io
+# README
 ## 概要
 超雑に作ったサイト
