@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-p {
+.card {
   width: 300px;
   margin: 100px;
   padding: 20px;
