@@ -2,12 +2,11 @@
   box-sizing: border-box;
 }
 
-main {
+p {
   width: 300px;
   margin: 100px;
   padding: 20px;
   border: 2px solid black;
-  box-sizing: border-box;
 }
 
 
