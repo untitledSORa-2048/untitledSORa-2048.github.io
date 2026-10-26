@@ -2,11 +2,8 @@
   box-sizing: border-box;
 }
 
-.card {
-  width: 300px;
-  margin: 100px;
-  padding: 20px;
-  border: 2px solid black;
+main {
+  margin: 50px;
 }
 
 
